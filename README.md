@@ -20,3 +20,13 @@ No contributors
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Description of the items
+1. Eritean and Ethiopian women and Men wear a traditional woven scarf called a Netela (ነጠላ). This may use by to cover thier hears, or to cover the whole body during cold seasons. During church service is a must to wear by all orthodox church members.  
+
+2. Zuria is a beautiful Eritean and Ethiopian dress use in cermonies. This dress is for all women regardless of the age
+
+3. kaba dress is for wedding, this made with great skill. Made from coton and silk
+
+4. Chifon dress and day to day cloth for most of the Habesha women and children. 
+
