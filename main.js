@@ -20,7 +20,7 @@ const getClothCategories = async () => {
     clothCategoryList.appendChild(clothCategoryListItem);
 
     const clothCategoryImage = document.createElement("img");
-    clothCategoryImage.src = clothes?.thumbnail;
+    clothCategoryImage.src = clothes?.picture;
     clothCategoryImage.width = 300;
     clothCategoryListItem.appendChild(clothCategoryImage);
 
