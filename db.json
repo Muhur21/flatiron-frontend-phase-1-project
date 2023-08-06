@@ -12,15 +12,15 @@
         "photo": "https://www.pinterest.com/pin/419327415275656738/"
       },
       {
-          "id": 2,
-          "name": "T-Shirt",
-          "Description": "Eritrea Matching Hawaiian Shirt And Dress Flag Of Eritrean",
-          "Use for": "T-shirt for Cermonies",
-          "Use by": "All men and woment children and adults",
-          "Size": ["SX", "S", "M", "L", "XL", "XXL"],
-          "Color": ["Blue", "White", "Grey", "Green", "light blue","Pink"],
-          "price $": 89,
-          "photo": "https://www.wonderprintshop.com/cdn/shop/products/Eritrean-Tibeb-Combo_800x.jpg?v=1664126527"
+        "id": 2,
+        "name": "T-Shirt",
+        "Description": "Eritrea Matching Hawaiian Shirt And Dress Flag Of Eritrean",
+        "Use for": "T-shirt for Cermonies",
+        "Use by": "All men and woment children and adults",
+        "Size": ["SX", "S", "M", "L", "XL", "XXL"],
+        "Color": ["Blue", "White", "Grey", "Green", "light blue", "Pink"],
+        "price $": 89,
+        "photo": "https://www.wonderprintshop.com/cdn/shop/products/Eritrean-Tibeb-Combo_800x.jpg?v=1664126527"
       }, 
       {
         "id": 3,
@@ -45,15 +45,15 @@
         "photo": "https://i.etsystatic.com/18078452/r/il/d3c9c8/2595463824/il_794xN.2595463824_i25i.jpg"
       }, 
 {
-        "id": 4,
-        "name": "Chifon dress",
-        "Description": "cotton, silk, or even synthetic materials",
-        "Use for": "Use for wedding only",
-        "Use by": "All women children and adults",
-        "Size": ["SX", "S", "M", "L", "XL", "XXL"],
-        "Color": ["Pink", "Blue", "White", "Black", "Green", "Light blue", "Purple"],
-        "price $": 35,
-        "photo": "https://cdn.shopify.com/s/files/1/0591/1579/8718/products/IMG_E9902_1024x1024.jpg?v=1653332142"
-      }
+  "id": 5,
+  "name": "Chiffon dress",
+  "Description": "cotton, silk, or even synthetic materials",
+  "Use for": "Use for wedding only",
+  "Use by": "All women children and adults",
+  "Size": ["SX", "S", "M", "L", "XL", "XXL"],
+  "Color": ["Pink", "Blue", "White", "Black", "Green", "Light blue", "Purple"],
+  "price $": 35,
+  "photo": "https://cdn.shopify.com/s/files/1/0591/1579/8718/products/IMG_E9902_1024x1024.jpg?v=1653332142"
+}
     ]
   }
