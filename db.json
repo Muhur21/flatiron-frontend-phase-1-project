@@ -9,7 +9,7 @@
         "Size": ["SX", "S", "M", "L", "XL", "XXL"],
         "Color": ["White", "Grey", "Green"],
         "price $": 45,
-        "photo": "https://www.pinterest.com/pin/419327415275656738/"
+        "picture": "https://www.pinterest.com/pin/419327415275656738/"
       },
       {
         "id": 2,
@@ -20,8 +20,8 @@
         "Size": ["SX", "S", "M", "L", "XL", "XXL"],
         "Color": ["Blue", "White", "Grey", "Green", "light blue", "Pink"],
         "price $": 89,
-        "photo": "https://www.wonderprintshop.com/cdn/shop/products/Eritrean-Tibeb-Combo_800x.jpg?v=1664126527"
-      }, 
+        "picture": "https://www.wonderprintshop.com/cdn/shop/products/Eritrean-Tibeb-Combo_800x.jpg?v=1664126527"
+      },
       {
         "id": 3,
         "name": "Zuria",
@@ -31,7 +31,7 @@
         "Size": ["SX", "S", "M", "L", "XL", "XXL"],
         "Color": ["White", "Grey", "Green"],
         "price $": 375,
-        "photo": "https://i.etsystatic.com/18078452/r/il/174c0d/3099828468/il_794xN.3099828468_rl5m.jpg"
+        "picture": "https://i.etsystatic.com/18078452/r/il/174c0d/3099828468/il_794xN.3099828468_rl5m.jpg"
       },
       {
         "id": 4,
@@ -40,20 +40,36 @@
         "Use for": "Use for wedding only",
         "Use by": "All Men and women children and adults",
         "Size": ["SX", "S", "M", "L", "XL", "XXL"],
-        "Color": ["Pink", "Blue", "White", "Black", "Green", "Light blue", "Purple"],
+        "Color": [
+          "Pink",
+          "Blue",
+          "White",
+          "Black",
+          "Green",
+          "Light blue",
+          "Purple"
+        ],
         "price $": 1350,
-        "photo": "https://i.etsystatic.com/18078452/r/il/d3c9c8/2595463824/il_794xN.2595463824_i25i.jpg"
-      }, 
-{
-  "id": 5,
-  "name": "Chiffon dress",
-  "Description": "cotton, silk, or even synthetic materials",
-  "Use for": "Use for wedding only",
-  "Use by": "All women children and adults",
-  "Size": ["SX", "S", "M", "L", "XL", "XXL"],
-  "Color": ["Pink", "Blue", "White", "Black", "Green", "Light blue", "Purple"],
-  "price $": 35,
-  "photo": "https://cdn.shopify.com/s/files/1/0591/1579/8718/products/IMG_E9902_1024x1024.jpg?v=1653332142"
-}
+        "picture": "https://i.etsystatic.com/18078452/r/il/d3c9c8/2595463824/il_794xN.2595463824_i25i.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chiffon dress",
+        "Description": "cotton, silk, or even synthetic materials",
+        "Use for": "Use for wedding only",
+        "Use by": "All women children and adults",
+        "Size": ["SX", "S", "M", "L", "XL", "XXL"],
+        "Color": [
+          "Pink",
+          "Blue",
+          "White",
+          "Black",
+          "Green",
+          "Light blue",
+          "Purple"
+        ],
+        "price $": 35,
+        "picture": "https://cdn.shopify.com/s/files/1/0591/1579/8718/products/IMG_E9902_1024x1024.jpg?v=1653332142"
+      }
     ]
   }
