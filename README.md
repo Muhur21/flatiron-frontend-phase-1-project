@@ -26,7 +26,7 @@ No contributors
 
 2. Zuria is a beautiful Eritean and Ethiopian dress use in cermonies. This dress is for all women regardless of the age
 
-3. kaba dress is for wedding, this made with great skill. Made from coton and silk
+3. kaba dress is for wedding. Made from coton and silk
 
-4. Chifon dress and day to day cloth for most of the Habesha women and children. 
+4. Chiffon dress is day to day cloth for most of the Habesha women and youn ladies. 
 
