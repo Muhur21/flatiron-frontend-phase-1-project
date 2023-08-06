@@ -1,15 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Phase 1 Project</title>
-  <!---normalize the css-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css" integrity="sha512-4xo8blKMVCiXpTaLzQSLSw3KFOVPWhm/TRtuPVc4WG6kUgjH6J03IBuG7JZPkcWMxJ5huwaBpOpnwYElP/m6wg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="styles.css">
-  <script defer src="main.js"></script>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phase 1 Project</title>
+    <!---normalize the css-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css"
+      integrity="sha512-4xo8blKMVCiXpTaLzQSLSw3KFOVPWhm/TRtuPVc4WG6kUgjH6J03IBuG7JZPkcWMxJ5huwaBpOpnwYElP/m6wg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="main.js"></script>
+  </head>
+  <body>
+    <header id="top">
+      <h1 class="habetsha clothes shoping">Habesha Clothes Shoping</h1>
+      <nav>
+        <ul>
+          <li>
+            <a href="#name">List of clothes</a>
+          </li>
+          <li>
+            <a href="#description">Description</a>
+          </li>
+          <li>
+            <a href="#price">Price</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Search form begins-->
+    <main>
+      <section class="search-form">
+        <h2>search clothes</h2>
+        <form action="GET" id="clothes-form">
+          <label for="search-items">Search Item</label>
+          <input
+            type="text"
+            name="search-items"
+            id="search-items"
+            placeholder="input search clothes"
+            required
+          />
+
+          <br />
+
+          <label for="category-filter">Category Filter:</label>
+          <select name="category-filter" id="category-filter" required>
+            <option value="netela">Netela</option>
+            <option value="zuria">Zuria</option>
+            <option value="kaba">Kaba</option>
+            <option value="chiffon">Chiffon</option>
+          </select>
+
+          <br />
+
+          <input type="submit" value="search" />
+        </form>
+      </section>
+      <!-- search form section ends -->
+
+      <!-- clothes categories list section begins-->
+      <section class = "cloth-categories">
+        <h2> Cloth Category</h2>
+        <ul id = "cloth-categories-list">
+
+        </ul>
+      </section>
+    </main>
+    <footer></footer>
+    <a href="#top">Habesha clothes </a>
+  </body>
 </html>
