@@ -1,1 +1,43 @@
-console.log('connected')
+console.log("main.js connected");
+
+const searchItemsInput = document.body.querySelector("#search-items");
+
+const getClothCategories = async () => {
+  const ClothCategoriesDbJson = "http://localhost:3000/clothes";
+  const response = await fetch(ClothCategoriesDbJson);
+  const clothes = await response.json();
+  console.log(`clothes`, clothes);
+  console.table(clothes);
+
+  //find and select a UL with cloth categorues ID dom element to append my data into
+  const clothCategoryList = document.body.querySelector(
+    "#cloth-categories-list"
+  );
+
+  clothes.forEach(() => {
+    const clothCategoryListItem = document.createElement("li");
+    clothCategoryListItem.className = "cloth-category-card";
+    clothCategoryList.appendChild(clothCategoryListItem);
+
+    const clothCategoryImage = document.createElement("img");
+    clothCategoryImage.src = clothes?.thumbnail;
+    clothCategoryImage.width = 300;
+    clothCategoryListItem.appendChild(clothCategoryImage);
+
+    const clothCategoryName = document.createElement("h4");
+    clothCategoryName.textContent = clothes?.name;
+
+    clothCategoryListItem.appendChild(clothCategoryDescription);
+
+    const clothCategoryDescription = document.createElement("p");
+    clothCategoryDescription.textContent = clothes?.description;
+    clothCategoryListItem.appendChild(clothCategoryDescription);
+  });
+};
+
+const handleFormInputFocus = async () => {
+  console.log(`focus occurred`);
+  getClothCategories();
+};
+
+searchItemsInput.addEventListener("focus", handleFormInputFocus());
