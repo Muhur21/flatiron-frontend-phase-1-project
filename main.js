@@ -20,7 +20,7 @@ const getClothCategories = async () => {
     clothCategoryList.appendChild(clothCategoryListItem);
 
     const clothCategoryImage = document.createElement("img");
-    clothCategoryImage.src = clothes?.picture;
+    clothCategoryImage.src = clothes.picture;
     clothCategoryImage.width = 300;
     clothCategoryListItem.appendChild(clothCategoryImage);
 
@@ -30,7 +30,7 @@ const getClothCategories = async () => {
     clothCategoryListItem.appendChild(clothCategoryDescription);
 
     const clothCategoryDescription = document.createElement("p");
-    clothCategoryDescription.textContent = clothes?.description;
+    clothCategoryDescription.textContent = clothes?.Description;
     clothCategoryListItem.appendChild(clothCategoryDescription);
   });
 };
