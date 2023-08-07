@@ -2,7 +2,7 @@
 My Flatiron Frontend Phase 1 Project
 
 # Habesha's Clothes Shop
-Eritrean traditional cloth shoping center. There are clothes for different ethnic groups. These clothes are for wedding, for couples, for whole family members. This app will make life easier for habesha cloth lovers. There are not apps that you can see all the different types of clothes and with thier respective prices.
+Eritrean and Ethiopian traditional cloth shoping app. Eritran and Ethiopian are known as Habesha, that comes after the There are clothes for different ethnic groups. These clothes are for wedding, for couples, for whole family members. This app will make life easier for habesha cloth lovers. There are not apps that you can see all the different types of clothes and with thier respective prices.
 
 ## Shoping Method
 Any one can shop them online.
