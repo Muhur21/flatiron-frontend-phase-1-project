@@ -30,3 +30,6 @@ No contributors
 
 4. Chiffon dress is day to day cloth for most of the Habesha women and youn ladies. 
 
+https://youtu.be/ZBXGdlFfAmA This is video for the Habesha Cloth selling app description
+
+
