@@ -42,3 +42,4 @@ const handleFormInputFocus = async () => {
 };
 
 searchItemsInput.addEventListener("focus", handleFormInputFocus());
+searchItemsInput.addEventListener("click", handleFormInputFocus());
