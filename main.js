@@ -10,7 +10,6 @@ const getClothCategories = async () => {
   console.log(`clothes`, clothes);
   console.table(clothes);
 
-  //find and select a UL with cloth categorues ID dom element to append my data into
   const clothCategoryList = document.body.querySelector(
     "#cloth-categories-list"
   );
@@ -45,4 +44,5 @@ const handleFormInputFocus = async () => {
 searchItemsInput.addEventListener("focus", handleFormInputFocus());
 searchItemsInput.addEventListener("click", handleFormInputFocus());
 categoryFilter.addEventListener("click", handleFormInputFocus());
+
 
