@@ -30,6 +30,16 @@ No contributors
 
 4. Chiffon dress is day to day cloth for most of the Habesha women and youn ladies. 
 
+
+pictures are taken from the list of websites
+1. https://www.pinterest.com/pin/419327415275656738/
+2. https://www.wonderprintshop.com/cdn/shop/products/Eritrean-Tibeb-Combo_800x.jpg?v=1664126527
+3. https://i.etsystatic.com/18078452/r/il/174c0d/3099828468/il_794xN.3099828468_rl5m.jpg
+4. https://i.etsystatic.com/18078452/r/il/d3c9c8/2595463824/il_794xN.2595463824_i25i.jpg
+5. https://cdn.shopify.com/s/files/1/0591/1579/8718/products/IMG_E9902_1024x1024.jpg?v=1653332142
+      
+
 https://youtu.be/ZBXGdlFfAmA This is video for the Habesha Cloth selling app description
+
 
 
