@@ -27,7 +27,7 @@ const getClothCategories = async () => {
     const clothCategoryName = document.createElement("h4");
     clothCategoryName.textContent = clothes?.name;
 
-    clothCategoryListItem.appendChild(clothCategoryDescription);
+    clothCategoryListItem.appendChild(clothCategoryName);
 
     const clothCategoryDescription = document.createElement("p");
     clothCategoryDescription.textContent = clothes?.Description;
@@ -37,6 +37,7 @@ const getClothCategories = async () => {
 
 const handleFormInputFocus = async () => {
   console.log(`focus occurred`);
+  console.log(getClothCategories);
   getClothCategories();
 };
 
