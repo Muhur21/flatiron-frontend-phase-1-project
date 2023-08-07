@@ -1,6 +1,7 @@
 console.log("main.js connected");
 
 const searchItemsInput = document.body.querySelector("#search-items");
+const categoryFilter = document.body.querySelector("#category-filter");
 
 const getClothCategories = async () => {
   const ClothCategoriesDbJson = "http://localhost:3000/clothes";
@@ -43,3 +44,5 @@ const handleFormInputFocus = async () => {
 
 searchItemsInput.addEventListener("focus", handleFormInputFocus());
 searchItemsInput.addEventListener("click", handleFormInputFocus());
+categoryFilter.addEventListener("click", handleFormInputFocus());
+
